@@ -1,4 +1,4 @@
-module github.com/mailosaur/mailosaur-go
+module github.com/Mokto/mailosaur-go
 
 go 1.14
 
